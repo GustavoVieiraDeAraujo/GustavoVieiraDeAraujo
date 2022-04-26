@@ -1,6 +1,6 @@
 <h1>Prazer, sou o Gustavo Vieira de Araújo</h1>
 
-<p>
+<div>
   <ul>
     <li>😁 Estou cursando Engenharia da Computação;</li>
     <li>🤩 Estou participando de um processo Trainee em uma empresa junior(Struct);</li>
@@ -8,9 +8,9 @@
     <li>😆 Pretendo trabalhar na area de TI como arquiteto de sistemas voltado para a segurança de dados;</li>
     <li>😎 Sou novo na area de TI, porém apaixonada por ela, embora ele estresse algumas vezes;</li>
    </ul>
- </p>
+ </div>
  
-<div align="center">
+<div diplay="flex" align="center">
   <a href="https://github.com/GustavoVieiraDeAraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoVieiraDeAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVieiraDeAraujo&layout=compact&langs_count=7&theme=dracula"/>
