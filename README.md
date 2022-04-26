@@ -1,3 +1,11 @@
+<style>
+  .container{
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+  } 
+</style>
+
 <h1>Prazer, sou o Gustavo Vieira de Araújo</h1>
 
 <div>
@@ -10,7 +18,7 @@
    </ul>
  </div>
  
-<div style="display:flex justify-content:space-between" align="center">
+<div class="container">
   <a href="https://github.com/GustavoVieiraDeAraujo">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=GustavoVieiraDeAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVieiraDeAraujo&layout=compact&langs_count=7&theme=dracula"/>
