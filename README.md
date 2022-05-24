@@ -3,7 +3,7 @@
 <div>
   <h3>
     Um pouco sobre minha pessoa:
-  </h3>
+  </h3><br>
     <ul>
       <li>
         😜 Estou fazendo um curso de Desenvolver Full Stack Web(Resilia);
@@ -21,7 +21,32 @@
         😆 Pretendo trabalhar na area de TI como Desenvolvedor Web, Analista/Arquiteto de Segurança de Dados;
       </li>
      </ul>
- </div>
+</div>
+  
+##
+
+<div>
+  <h3>
+    Link de alguns projetos:
+  </h3><br>
+  <ul>
+      <li>
+        <a href="https://gustavovieiradearaujo.github.io/Adote-Aqui-ON/">Adote Aqui</a>
+      </li>
+      <li>
+        <a href="https://gustavovieiradearaujo.github.io/Inscricoes-Resilia-ON/">Inscrições Resilia</a>
+      </li>
+      <li>
+        <a href="https://gustavovieiradearaujo.github.io/Passinho-do-Romano-ON/">Passinho do Romano</a>
+      </li>
+      <li>
+        <a href="https://gustavovieiradearaujo.github.io/APOD-ON/">Astronomy Picture of the Day</a>
+      </li>
+      <li>
+        <a href="https://gustavovieiradearaujo.github.io/Projeto-Final-Modulo-1-Resilia-ON/">Projeto Final Modulo 1 (Resilia)</a>
+      </li>
+    </ul>
+</div>
  
  ##
  
@@ -29,7 +54,7 @@
   <h3>
     Estatisticas:
   </h3>
-    <a href="https://github.com/GustavoVieiraDeAraujo">
+    <a href="https://github.com/GustavoVieiraDeAraujo" target="_blank">
     <img hight="530em" width="530em" src="https://github-readme-stats.vercel.app/api?username=GustavoVieiraDeAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     <img hight="230em" width="270em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVieiraDeAraujo&layout=compact&langs_count=7&theme=dracula">  
 </div>
@@ -50,13 +75,18 @@
 ## 
   
 <div>
-  <h3>Perfis Sociais:</h3>
-    <a href="https://www.linkedin.com/in/gustavo-vieira-de-ara%C3%BAjo-4538831a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <h3>
+    Meu Linkedin:
+  </h3>
+    <a href="https://www.linkedin.com/in/gustavo-vieira-de-ara%C3%BAjo-4538831a4" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
 <div>
-  <h3>Devorador de Commits</h3>
+  <h3>
+    Devorador de Commits
+  </h3>
 </div>
   
 ![Snake animation](https://github.com/GustavoVieiraDeAraujo/GustavoVieiraDeAraujo/blob/output/github-contribution-grid-snake.svg)
