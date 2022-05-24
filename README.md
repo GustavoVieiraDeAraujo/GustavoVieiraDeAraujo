@@ -4,28 +4,23 @@
   <h3>
     Um pouco sobre minha pessoa:
   </h3><br>
-  <div style="display: flex;">
-    <ul>
-      <li>
-        😜 Estou fazendo um curso de Desenvolver Full Stack Web(Resilia);
-      </li>
-      <li>
-        😁 Estou cursando Engenharia da Computação na Universidade de Brasilia;
-      </li>
-      <li>
-        😍 Sou novo na area de TI e apaixonado por ela, embora ela me estresse algumas vezes;
-      </li>
-      <li>
-        🤩 Estou participando de um processo trainee na Struct (Empresa Junior de Desenvolvimento Web);
-      </li>
-      <li>
-        😆 Pretendo trabalhar na area de TI como Desenvolvedor Web, Analista/Arquiteto de Segurança de Dados;
-      </li>
-     </ul>
-     <div align="right">
-        <img align="right" alt="Programando" height="150" width="150" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j0rvdbljv3qzcsrcy4ontoh85oml7x7ldya2nv0y&rid=giphy.gif&ct=g">
-     </div>
-   </div>
+  <ul>
+    <li>
+      😜 Estou fazendo um curso de Desenvolver Full Stack Web(Resilia);
+    </li>
+    <li>
+      😁 Estou cursando Engenharia da Computação na Universidade de Brasilia;
+    </li>
+    <li>
+      😍 Sou novo na area de TI e apaixonado por ela, embora ela me estresse algumas vezes;
+    </li>
+    <li>
+      🤩 Estou participando de um processo trainee na Struct (Empresa Junior de Desenvolvimento Web);
+    </li>
+    <li>
+      😆 Pretendo trabalhar na area de TI como Desenvolvedor Web, Analista/Arquiteto de Segurança de Dados;
+    </li>
+   </ul>
 </div>
   
 ##
@@ -74,6 +69,7 @@
     <img  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img  alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="right" alt="Programando" height="150" width="150" src="https://static.vecteezy.com/ti/vetor-gratis/p1/2590171-programador-com-codigos-vetor.jpg">
 </div>
   
 ## 
