@@ -6,19 +6,19 @@
   </h3>
     <ul>
       <li>
-        😁 Estou cursando Engenharia da Computação;
-      </li>
-      <li>
         😜 Estou fazendo um curso de Desenvolver Full Stack Web(Resilia);
       </li>
       <li>
-        🤩 Estou participando de um processo Trainee em uma empresa junior(Struct);
+        😁 Estou cursando Engenharia da Computação na Universidade de Brasilia;
       </li>
       <li>
-        😎 Sou novo na area de TI, porém apaixonada por ela, embora ela me estresse algumas vezes;
+        😍 Sou novo na area de TI e apaixonado por ela, embora ela me estresse algumas vezes;
       </li>
       <li>
-        😆 Pretendo trabalhar na area de TI como arquiteto de sistemas voltado para a segurança de dados;
+        🤩 Estou participando de um processo trainee na Struct (Empresa Junior de Desenvolvimento Web);
+      </li>
+      <li>
+        😆 Pretendo trabalhar na area de TI como Desenvolvedor Web, Analista/Arquiteto de Segurança de Dados;
       </li>
      </ul>
  </div>
