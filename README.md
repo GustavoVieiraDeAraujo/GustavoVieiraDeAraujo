@@ -69,7 +69,7 @@
     <img  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img  alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Programando" height="150" width="150" src="https://static.vecteezy.com/ti/vetor-gratis/p1/2590171-programador-com-codigos-vetor.jpg">
+    <img align="right" alt="Arte Programador" height="150" width="150" src="https://static.vecteezy.com/ti/vetor-gratis/p1/2590171-programador-com-codigos-vetor.jpg">
 </div>
   
 ## 
