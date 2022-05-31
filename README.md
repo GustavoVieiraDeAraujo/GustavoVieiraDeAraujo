@@ -31,19 +31,19 @@
   </h3><br>
   <ul>
       <li>
-        <a href="https://gustavovieiradearaujo.github.io/Adote-Aqui-ON/">Adote Aqui</a>
+        <a href="https://gustavovieiradearaujo.github.io/Adote-Aqui-ON/" target="_blank">Adote Aqui</a>
       </li>
       <li>
-        <a href="https://gustavovieiradearaujo.github.io/Inscricoes-Resilia-ON/">Inscrições Resilia</a>
+        <a href="https://gustavovieiradearaujo.github.io/Inscricoes-Resilia-ON/" target="_blank">Inscrições Resilia</a>
       </li>
       <li>
-        <a href="https://gustavovieiradearaujo.github.io/Passinho-do-Romano-ON/">Passinho do Romano</a>
+        <a href="https://gustavovieiradearaujo.github.io/Passinho-do-Romano-ON/" target="_blank">Passinho do Romano</a>
       </li>
       <li>
-        <a href="https://gustavovieiradearaujo.github.io/APOD-ON/">Astronomy Picture of the Day</a>
+        <a href="https://gustavovieiradearaujo.github.io/APOD-ON/" target="_blank">Astronomy Picture of the Day</a>
       </li>
       <li>
-        <a href="https://gustavovieiradearaujo.github.io/Projeto-Final-Modulo-1-Resilia-ON/">Projeto Final Modulo 1 (Resilia)</a>
+        <a href="https://gustavovieiradearaujo.github.io/Projeto-Final-Modulo-1-Resilia-ON/" target="_blank">Projeto Final Modulo 1 (Resilia)</a>
       </li>
     </ul>
 </div>
