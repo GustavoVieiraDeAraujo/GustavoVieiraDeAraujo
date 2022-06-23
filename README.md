@@ -45,6 +45,9 @@
       <li>
         <a href="https://gustavovieiradearaujo.github.io/Projeto-Final-Modulo-1-Resilia-ON/" target="_blank">Projeto Final Modulo 1 (Resilia)</a>
       </li>
+      <li>
+        <a href="https://gustavovieiradearaujo.github.io/Projeto-Final-Resilia-Modulo-2/" target="_blank">Projeto Final Modulo 2 (Resilia)</a>
+      </li>
     </ul>
 </div>
  
@@ -63,12 +66,21 @@
   
 <div>
   <h3>
-    Linguagens que estou estudando:
+    Stacks que estou aprendendo e utilizando:
   </h3>
-    <img  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img  alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img  alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img  alt="HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img  alt="CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img  alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img  alt="React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img  alt="Rails" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+    <img  alt="Ruby" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+    <img  alt="Yarn" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+    <img  alt="Node" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img  alt="Jquery" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+    <img  alt="Rspec" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
+    <img  alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+    <img  alt="NPM" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img align="right" alt="Arte Programador" height="150" width="150" src="https://static.vecteezy.com/ti/vetor-gratis/p1/2590171-programador-com-codigos-vetor.jpg">
 </div>
   
