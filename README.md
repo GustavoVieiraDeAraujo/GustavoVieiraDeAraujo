@@ -81,7 +81,7 @@
     <img  alt="Rspec" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
     <img  alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
     <img  alt="NPM" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img align="right" alt="Arte Programador" height="150" width="150" src="https://static.vecteezy.com/ti/vetor-gratis/p1/2590171-programador-com-codigos-vetor.jpg">
+    <img align="right" alt="Arte Programador" height="150" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpdJZSBgM1QqQFalqEnhcjBTw4xuTSNMIsCsujlv8Jp7-EuE9XdoH0JhGGe3c1TsjGD8&usqp=CAU">
 </div>
   
 ## 
