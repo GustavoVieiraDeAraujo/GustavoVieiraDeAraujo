@@ -40,7 +40,7 @@
         <a href="https://gustavovieiradearaujo.github.io/APOD-ON/" target="_blank">Astronomy Picture of the Day</a>
       </li>
       <li>
-        <a href="https://gustavovieiradearaujo.github.io/Projeto-Final-Modulo-2-Spread-ON/" target="_blank">Projeto Final Modulo 2 Spread</a>
+        <a href="https://gustavovieiradearaujo.github.io/Projeto-Final-Modulo-2-Spread-ON/" target="_blank">Projeto Final Modulo 2 (Spread)</a>
       </li>
       <li>
         <a href="https://gustavovieiradearaujo.github.io/Projeto-Final-Modulo-1-Resilia-ON/" target="_blank">Projeto Final Modulo 1 (Resilia)</a>
