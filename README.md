@@ -31,9 +31,6 @@
   </h3><br>
   <ul>
       <li>
-        <a href="https://gustavovieiradearaujo.github.io/Adote-Aqui-ON/" target="_blank">Adote Aqui</a>
-      </li>
-      <li>
         <a href="https://gustavovieiradearaujo.github.io/Inscricoes-Resilia-ON/" target="_blank">Inscrições Resilia</a>
       </li>
       <li>
@@ -41,6 +38,9 @@
       </li>
       <li>
         <a href="https://gustavovieiradearaujo.github.io/APOD-ON/" target="_blank">Astronomy Picture of the Day</a>
+      </li>
+      <li>
+        <a href="https://gustavovieiradearaujo.github.io/Projeto-Final-Modulo-2-Spread-ON/" target="_blank">Projeto Final Modulo 2 Spread</a>
       </li>
       <li>
         <a href="https://gustavovieiradearaujo.github.io/Projeto-Final-Modulo-1-Resilia-ON/" target="_blank">Projeto Final Modulo 1 (Resilia)</a>
