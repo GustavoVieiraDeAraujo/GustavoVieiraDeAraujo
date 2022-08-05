@@ -18,7 +18,7 @@
       😍 Sou novo na area de TI e apaixonado por ela, embora ela me estresse algumas vezes;
     </li>
     <li>
-      😆 Pretendo trabalhar na area de TI como Desenvolvedor Web, Analista/Arquiteto de Segurança de Dados;
+      😆 Pretendo trabalhar na area de TI como Desenvolvedor FullStack Web/Arquiteto de Sistemas Seguros/Data Science;
     </li>
    </ul>
 </div>
