@@ -52,17 +52,6 @@
 </div>
  
  ##
- 
-<div>
-  <h3>
-    Estatisticas:
-  </h3>
-    <a href="https://github.com/GustavoVieiraDeAraujo" target="_blank">
-    <img hight="530em" width="530em" src="https://github-readme-stats.vercel.app/api?username=GustavoVieiraDeAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img hight="230em" width="270em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVieiraDeAraujo&layout=compact&langs_count=7&theme=dracula">  
-</div>
- 
-##
   
 <div>
   <h3>
