@@ -78,7 +78,7 @@
   <h3>
     Meu Linkedin:
   </h3>
-    <a href="https://www.linkedin.com/in/gustavo-vieira-de-ara%C3%BAjo-4538831a4" target="_blank">
+    <a href="https://www.linkedin.com/in/gustavovieiradearaujo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
