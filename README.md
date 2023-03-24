@@ -6,7 +6,7 @@
   </h3><br>
   <ul>
     <li>
-      😜 Estou fazendo um curso de Desenvolver Full Stack Web (Resilia);
+      😆 Pretendo trabalhar na area de TI como Desenvolvedor FullStack Web;
     </li>
     <li>
       😁 Estou cursando Engenharia da Computação na Universidade de Brasilia;
@@ -15,10 +15,10 @@
       🤩 Sou desenvolvedor de projetos na Struct (Empresa Junior de Desenvolvimento Web);
     </li>
     <li>
-      😍 Sou novo na area de TI e apaixonado por ela, embora ela me estresse algumas vezes;
+      😍 Sou apaixonado pela tecnologia, bem como as transformações que ela proporciona para o mundo;
     </li>
     <li>
-      😆 Pretendo trabalhar na area de TI como Desenvolvedor FullStack Web/Arquiteto de Sistemas Seguros/Data Science;
+      🤓 Alem da area Web, tambem tenho interesse na area de segurança cibernetica, segurança da informação e inteligencia artificial;
     </li>
    </ul>
 </div>
