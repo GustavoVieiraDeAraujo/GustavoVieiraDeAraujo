@@ -6,7 +6,7 @@
   </h3><br>
   <ul>
     <li>
-      😆 Pretendo trabalhar na area de TI como Desenvolvedor FullStack Web;
+      😆 Pretendo trabalhar na area de TI como Desenvolvedor Machine Learning/IA;
     </li>
     <li>
       😁 Estou cursando Engenharia da Computação na Universidade de Brasilia;
@@ -18,7 +18,7 @@
       😍 Sou apaixonado pela tecnologia, bem como as transformações que ela proporciona para o mundo;
     </li>
     <li>
-      🤓 Alem da area Web, tambem tenho interesse na area de segurança cibernetica, segurança da informação e inteligencia artificial;
+      🤓 Alem da area Web, tambem tenho interesse na area de Inteligencia artificial,Machine Learning,Ciencia de Dados;
     </li>
    </ul>
 </div>
