@@ -6,19 +6,22 @@
   </h3><br>
   <ul>
     <li>
-      😆 Pretendo trabalhar na area de TI como Desenvolvedor Machine Learning/IA;
-    </li>
-    <li>
       😁 Estou cursando Engenharia da Computação na Universidade de Brasilia;
     </li>
     <li>
-      🤩 Sou desenvolvedor de projetos na Struct (Empresa Junior de Desenvolvimento Web);
+      🤩 Sou Ex-desenvolvedor de projetos na Struct (Empresa Junior de Desenvolvimento Web);
+    </li>
+    <li>
+      🤩 Atualmente sou estagiario em Desenvolvimento Web no Tribunal Superior Eleitoral(TSE);
+    </li>
+     <li>
+      😆 Pretendo trabalhar na area de TI com Desenvolvedor Full Stack Web/Inteligencia Artificial;
     </li>
     <li>
       😍 Sou apaixonado pela tecnologia, bem como as transformações que ela proporciona para o mundo;
     </li>
     <li>
-      🤓 Alem da area Web, tambem tenho interesse na area de Inteligencia artificial,Machine Learning,Ciencia de Dados;
+      🤓 Alem da area de Desenvolvimento Web, tenho interesse na area de Inteligencia artificial, Machine Learning, Ciencia de Dados;
     </li>
    </ul>
 </div>
