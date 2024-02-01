@@ -84,12 +84,3 @@
     <a href="https://www.linkedin.com/in/gustavovieiradearaujo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-##
-<div>
-  <h3>
-    Devorador de Commits
-  </h3>
-</div>
-  
-![Snake animation](https://github.com/GustavoVieiraDeAraujo/GustavoVieiraDeAraujo/blob/output/github-contribution-grid-snake.svg)
