@@ -6,22 +6,22 @@
   </h3><br>
   <ul>
     <li>
-      😁 Estou cursando Engenharia da Computação na Universidade de Brasilia;
+      😁 Estou cursando Ciência da Computação na Universidade de Brasilia;
+    </li>
+    <li>
+      😆 Atualmente trabalho na area de TI como Desenvolvedor Full Stack Web;
     </li>
     <li>
       🤩 Sou Ex-desenvolvedor de projetos na Struct (Empresa Junior de Desenvolvimento Web);
     </li>
     <li>
-      🤩 Atualmente sou estagiario em Desenvolvimento Web no Tribunal Superior Eleitoral(TSE);
-    </li>
-     <li>
-      😆 Pretendo trabalhar na area de TI com Desenvolvedor Full Stack Web/Inteligencia Artificial;
+      🤩 Atualmente sou estagiario em Desenvolvimento Web no Tribunal Superior Eleitoral (TSE);
     </li>
     <li>
       😍 Sou apaixonado pela tecnologia, bem como as transformações que ela proporciona para o mundo;
     </li>
     <li>
-      🤓 Alem da area de Desenvolvimento Web, tenho interesse na area de Inteligencia artificial, Machine Learning, Ciencia de Dados;
+      🤓 Alem da area de Desenvolvimento Web, tenho interesse na area de Inteligencia artificial, Ciencia de Dados;
     </li>
    </ul>
 </div>
