@@ -65,6 +65,10 @@ Sou apaixonado por tecnologia, principalmente quando ela sai do código e vira i
 <p align="center"><sub>Última atualização: 30/08/2026</sub></p>
 <!-- STATS_MEU_REPO_CARTAO:END -->
 
+<!-- ANALISE_MEU_REPO:START -->
+_analise indisponivel: GEMINI_API_KEY nao configurada_
+<!-- ANALISE_MEU_REPO:END -->
+
 ---
 
 ### 🌍 Estatísticas do GitHub
@@ -84,6 +88,10 @@ Sou apaixonado por tecnologia, principalmente quando ela sai do código e vira i
 <p align="center"><sub>Última atualização: 30/08/2026</sub></p>
 <!-- STATS_MUNDO_CARTAO:END -->
 
+<!-- ANALISE_MUNDO:START -->
+_analise indisponivel: GEMINI_API_KEY nao configurada_
+<!-- ANALISE_MUNDO:END -->
+
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/profile_divider.svg" alt="" width="100%"/>
 
 ## 🚀 Contribuições Sob Fogo
@@ -94,3 +102,7 @@ Sou apaixonado por tecnologia, principalmente quando ela sai do código e vira i
 <p align="center">
   <img alt="nave espacial atirando nos meus commits" src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/spaceship.svg" width="100%" />
 </p>
+
+---
+
+> Documentacao gerada com auxilio de IA. Ferramenta de IA usada no desenvolvimento deste projeto: [Claude Code](https://claude.com/claude-code) (Anthropic). Os textos de analise nas secoes de Estatisticas sao gerados automaticamente pela API do Gemini (Google) a cada execucao, ver [Orion-Index](https://github.com/GustavoVieiraDeAraujo/Orion-Index).
