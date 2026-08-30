@@ -66,7 +66,11 @@ Sou apaixonado por tecnologia, principalmente quando ela sai do código e vira i
 <!-- STATS_MEU_REPO_CARTAO:END -->
 
 <!-- ANALISE_MEU_REPO:START -->
-Você demonstra um perfil de desenvolvedor bastante versátil, com grande proficiência em Python, C++ e C, somando mais de 42 mil linhas de código nessas linguagens. Sua atuação abrange diversas áreas, incluindo desenvolvimento de pipeline com PostgreSQL, jogos e software básico, conforme visto nos seus maiores repositórios em linhas de código. O alto número de commits em projetos como "Processo-Seletivo-Crescer-CWI" e "Orion-Index" reflete um engajamento ativo e iterativo em seus projetos. As recorrências de tópicos como 'python', 'react', 'desenvolvimento-assistido-por-ia' e 'postgresql' indicam um foco em inteligência artificial, desenvolvimento web e gerenciamento de dados. A análise da sua trajetória mostra um aumento na criação de repositórios ao longo dos anos, com uma concentração notável de projetos datados para 2026.
+**🧠 Leitura da IA**
+
+Você demonstra uma sólida proficiência em múltiplas linguagens, com um volume expressivo de linhas de código em Python, C++ e C, além de JavaScript e Ruby, evidenciando versatilidade técnica. Seus projetos de maior porte e com mais commits, como o "Autotuning-PostgreSQL-Pipeline" e "Processo-Seletivo-Crescer-CWI", apontam para uma atuação prática e consistente em projetos significativos. As áreas de maior recorrência, como Python, React, JavaScript, PostgreSQL e desenvolvimento assistido por IA, revelam um perfil com interesses tanto no desenvolvimento web quanto em sistemas e novas tecnologias. A evolução na criação de repositórios, com um aumento notável em 2026, sugere uma trajetória crescente de engajamento e produção em sua jornada como desenvolvedor.
+
+<sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
 <!-- ANALISE_MEU_REPO:END -->
 
 ---
@@ -89,7 +93,11 @@ Você demonstra um perfil de desenvolvedor bastante versátil, com grande profic
 <!-- STATS_MUNDO_CARTAO:END -->
 
 <!-- ANALISE_MUNDO:START -->
-Python lidera a criação de novos repositórios com mais de um milhão de projetos recentes, refletindo diretamente a intensa atividade em tópicos como IA / Machine Learning e Ciência de Dados, os mais populares. JavaScript e TypeScript também demonstram alta demanda em novos projetos e no total de repositórios, com TypeScript exibindo o maior crescimento relativo, indicando sua rápida adoção no desenvolvimento de software atual. Java, por sua vez, detém uma vasta quantidade de repositórios públicos, apesar de uma taxa de criação de novos projetos menor em comparação às linguagens líderes. A alta demanda por APIs e Automação, conforme os tópicos mais relevantes, reforça as prioridades da indústria. Notavelmente, linguagens como Rust, Go e Kotlin também apresentam um crescimento relativo expressivo, sinalizando sua importância crescente no panorama tecnológico.
+**🧠 Leitura da IA**
+
+Os dados recentes do GitHub indicam uma forte atividade em torno de Python, que lidera a criação de novos repositórios nos últimos 30 dias, um reflexo direto da sua dominância em tópicos como IA, Machine Learning e Ciência de Dados. Enquanto JavaScript mantém a maior base total de repositórios públicos, a rápida ascensão de TypeScript, que figura entre os top 3 em novos repositórios e lidera em crescimento relativo, mostra sua crescente adoção para projetos web modernos, oferecendo tipagem e escalabilidade. Java, embora com um volume de novos repositórios inferior às líderes atuais, mantém uma base robusta no total de projetos, indicando seu papel consolidado em domínios empresariais. O crescimento relativo também destaca linguagens como Rust, Go e Kotlin, indicando uma inclinação do mercado por ferramentas que priorizam performance, concorrência e plataformas específicas para novos desenvolvimentos.
+
+<sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
 <!-- ANALISE_MUNDO:END -->
 
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/profile_divider.svg" alt="" width="100%"/>
