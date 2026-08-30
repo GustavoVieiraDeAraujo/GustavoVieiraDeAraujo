@@ -102,7 +102,3 @@ Python lidera a criação de novos repositórios com mais de um milhão de proje
 <p align="center">
   <img alt="nave espacial atirando nos meus commits" src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/spaceship.svg" width="100%" />
 </p>
-
----
-
-> Documentacao gerada com auxilio de IA. Ferramenta de IA usada no desenvolvimento deste projeto: [Claude Code](https://claude.com/claude-code) (Anthropic). Os textos de analise nas secoes de Estatisticas sao gerados automaticamente pela API do Gemini (Google) a cada execucao, ver [Orion-Index](https://github.com/GustavoVieiraDeAraujo/Orion-Index).
