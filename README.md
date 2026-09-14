@@ -62,15 +62,13 @@ Sou apaixonado por tecnologia, principalmente quando ela sai do código e vira i
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/profile_row1.svg" alt="repositorios mais extensos, linguagens por linhas de codigo, repositorios por ano, repositorios por numero de commits" width="100%" />
 </p>
 
-<p align="center"><sub>Última atualização: 13/09/2026</sub></p>
+<p align="center"><sub>Última atualização: 14/09/2026</sub></p>
 <!-- STATS_MEU_REPO_CARTAO:END -->
 
 <!-- ANALISE_MEU_REPO:START -->
 **🧠 Análise por IA**
 
-Você demonstra um perfil de desenvolvedor bastante versátil, com um volume considerável de código analisado e proficiência destacada em Python, C++ e C, além de uma boa base em JavaScript, Ruby e TypeScript. Seus projetos principais revelam um foco tanto em sistemas de alta performance, como no repositório de autotuning para PostgreSQL, quanto em desafios de programação fundamental e desenvolvimento de jogos. A recorrência de tópicos como React, JavaScript, PostgreSQL e desenvolvimento assistido por IA aponta para uma atuação abrangente que vai do front-end ao back-end, com interesse em áreas emergentes. A atividade de commits é robusta em repositórios como os de processos seletivos e front-end, indicando engajamento e trabalho iterativo. Sua trajetória mostra uma crescente criação de repositórios entre 2022 e 2023, com uma notável concentração de novos projetos projetada para 2026, sugerindo um planejamento ativo ou um período de intensa atividade futura.
-
-<sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
+_falha ao gerar analise nesta execucao_
 <!-- ANALISE_MEU_REPO:END -->
 
 ---
@@ -89,13 +87,13 @@ Você demonstra um perfil de desenvolvedor bastante versátil, com um volume con
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/orion-index.svg" alt="Orion Index: linguagens mais usadas no mundo segundo o GitHub (repositorios novos, totais, por finalidade e crescimento relativo)" width="100%" />
 </p>
 
-<p align="center"><sub>Última atualização: 13/09/2026</sub></p>
+<p align="center"><sub>Última atualização: 14/09/2026</sub></p>
 <!-- STATS_MUNDO_CARTAO:END -->
 
 <!-- ANALISE_MUNDO:START -->
 **🧠 Análise por IA**
 
-Nos últimos 30 dias, Python liderou a criação de novos repositórios com 1.178.560, um volume que se alinha à proeminência de tópicos como IA / Machine Learning e Ciência de Dados, que juntos somam mais de 320 mil repositórios por finalidade. Enquanto isso, JavaScript mantém sua vasta base com mais de 47 milhões de repositórios públicos totais, refletindo sua posição estabelecida no desenvolvimento web. TypeScript, contudo, exibe o maior crescimento relativo, com 4.455% de novos repositórios em comparação aos totais, e 821.663 novas criações, indicando uma rápida adoção em projetos mais estruturados. A relevância de tópicos como APIs, com quase 150 mil repositórios, e Automação, com mais de 97 mil, sublinha a contínua demanda por integração de sistemas e eficiência operacional. Além das linguagens de maior volume, Rust, Kotlin e Go também demonstraram um crescimento relativo significativo, sugerindo sua ascensão em áreas como performance, desenvolvimento mobile e cloud-native, respectivamente.
+Python lidera a criação de novos repositórios nos últimos 30 dias, com mais de 1.1 milhão, o que se alinha diretamente à alta demanda por IA e Machine Learning, os tópicos de maior prevalência na plataforma. TypeScript, apesar de um volume total de repositórios menor que JavaScript, mostra o maior crescimento relativo de 4.47%, com quase 825 mil novos projetos, indicando sua rápida ascensão para desenvolvimento moderno e escalável. JavaScript, embora mantenha a liderança esmagadora em repositórios públicos totais, com 47 milhões, demonstra uma taxa de novos projetos superada por Python e próxima de TypeScript. A presença forte de APIs e Automação entre os tópicos mais buscados, somada aos mais de 234 mil novos repositórios em Java, ressalta a importância contínua da infraestrutura e sistemas corporativos. Além disso, linguagens como Rust e Kotlin, com crescimentos relativos notáveis, apontam para a busca do mercado por performance e soluções mais especializadas.
 
 <sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
 <!-- ANALISE_MUNDO:END -->
