@@ -62,13 +62,13 @@ Sou apaixonado por tecnologia, principalmente quando ela sai do código e vira i
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/profile_row1.svg" alt="repositorios mais extensos, linguagens por linhas de codigo, repositorios por ano, repositorios por numero de commits" width="100%" />
 </p>
 
-<p align="center"><sub>Última atualização: 28/09/2026</sub></p>
+<p align="center"><sub>Última atualização: 29/09/2026</sub></p>
 <!-- STATS_MEU_REPO_CARTAO:END -->
 
 <!-- ANALISE_MEU_REPO:START -->
 **🧠 Análise por IA**
 
-Você demonstra um perfil técnico robusto, com forte domínio em Python, C++ e C, refletido nas mais de 17 mil linhas em Python e 13 mil em C++. Seus projetos mais volumosos, como 'Autotuning-PostgreSQL-Pipeline' e 'Trabalho-Introducao-Desenvolvimento-Jogos', junto aos tópicos recorrentes, revelam uma versatilidade que abrange desde o desenvolvimento de jogos e software básico até sistemas de banco de dados com PostgreSQL e aplicações web com React e JavaScript. Uma dedicação considerável é aparente em projetos como 'Orion-Index' e 'Processo-Seletivo-Crescer-CWI', que concentram centenas de commits cada, mostrando um alto nível de engajamento e aprofundamento. Além disso, há um claro interesse em desenvolvimento assistido por IA, listado entre seus tópicos principais, sinalizando uma exploração de áreas inovadoras. Sua trajetória de criação de repositórios aponta um crescimento, com um pico significativo de 14 projetos em 2026, superando os 5 de 2022 e 7 de 2023.
+Você apresenta um perfil de desenvolvedor versátil, com um total de 76.461 linhas de código analisadas e forte domínio em múltiplas linguagens. Python, C++ e C se destacam como suas principais linguagens, demonstrando capacidade em diferentes níveis de programação, complementadas por JavaScript e Ruby. Seus interesses abrangem desenvolvimento assistido por IA, PostgreSQL, React e tecnologias web, conforme indicado pelos tópicos mais recorrentes e projetos como Autotuning-PostgreSQL-Pipeline. O alto número de commits em repositórios como Orion-Index (261 commits) e Processo-Seletivo-Crescer-CWI (229 commits) evidencia um engajamento significativo e um histórico de desenvolvimento iterativo. Sua atividade de criação de repositórios mostrou um aumento de 5 em 2022 para 7 em 2023, com os dados indicando 14 novos repositórios para 2026.
 
 <sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
 <!-- ANALISE_MEU_REPO:END -->
@@ -89,13 +89,13 @@ Você demonstra um perfil técnico robusto, com forte domínio em Python, C++ e 
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/orion-index.svg" alt="Orion Index: linguagens mais usadas no mundo segundo o GitHub (repositorios novos, totais, por finalidade e crescimento relativo)" width="100%" />
 </p>
 
-<p align="center"><sub>Última atualização: 28/09/2026</sub></p>
+<p align="center"><sub>Última atualização: 29/09/2026</sub></p>
 <!-- STATS_MUNDO_CARTAO:END -->
 
 <!-- ANALISE_MUNDO:START -->
 **🧠 Análise por IA**
 
-Os dados recentes do GitHub evidenciam a forte influência de Python, que lidera na criação de novos repositórios nos últimos 30 dias e apresenta notável crescimento relativo, impulsionado pela demanda em tópicos como IA / Machine Learning e Ciência de Dados. Embora JavaScript possua a maior base de repositórios públicos totais, TypeScript exibe o maior crescimento relativo entre todas as linguagens e é a terceira em novos repositórios, refletindo sua crescente adoção para desenvolvimento moderno. Java mantém uma presença robusta tanto em novos repositórios quanto no total, indicando sua continuidade em projetos de sistemas empresariais e APIs, este último sendo um dos tópicos de maior volume. A alta atividade em tópicos como Automação também influencia a dinâmica de projetos na plataforma. Outras linguagens, como Rust, Kotlin e Go, mostram crescimentos relativos significativos, apontando para sua ascensão em nichos especializados.
+Os dados recentes do GitHub revelam uma forte liderança de Python na criação de novos repositórios, com mais de 1.2 milhão nos últimos 30 dias, refletindo a crescente demanda por IA / Machine Learning e Ciência de Dados, que são os tópicos de maior interesse. JavaScript e TypeScript também exibem um alto volume de novos projetos e uma base massiva de repositórios totais, com TypeScript registrando o maior crescimento relativo percentual entre as linguagens, indicando sua rápida adoção no desenvolvimento moderno. Enquanto linguagens estabelecidas como Java e C# mantêm grandes bases de repositórios existentes, a dinâmica de novos projetos favorece claramente Python e TypeScript. A prevalência de APIs e Automação entre os tópicos de finalidade corrobora a natureza interconectada do desenvolvimento atual. Além disso, o crescimento relativo de Rust, Kotlin e Go sinaliza uma adoção crescente em domínios específicos de performance e modernização.
 
 <sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
 <!-- ANALISE_MUNDO:END -->
