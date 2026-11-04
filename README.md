@@ -62,13 +62,13 @@ Sou apaixonado por tecnologia, principalmente quando ela sai do código e vira i
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/profile_row1.svg" alt="repositorios mais extensos, linguagens por linhas de codigo, repositorios por ano, repositorios por numero de commits" width="100%" />
 </p>
 
-<p align="center"><sub>Última atualização: 03/11/2026</sub></p>
+<p align="center"><sub>Última atualização: 04/11/2026</sub></p>
 <!-- STATS_MEU_REPO_CARTAO:END -->
 
 <!-- ANALISE_MEU_REPO:START -->
 **🧠 Análise por IA**
 
-Você demonstra um perfil técnico abrangente, com proficiência em linguagens como Python (17041 linhas), C++ (13052), C (12603) e JavaScript (10703), totalizando mais de 74 mil linhas de código analisadas. Seus principais projetos, como "Autotuning-PostgreSQL-Pipeline" e "Orion-Index", revelam um foco em sistemas e otimização, com este último destacando-se pelos 340 commits. As áreas de atuação são diversas, evidenciadas pelos tópicos mais recorrentes, incluindo Python, React, PostgreSQL, C++ e desenvolvimento assistido por IA. A criação de repositórios aponta para uma atividade crescente e consistente, com 5 projetos em 2022, 7 em 2023, 2 em 2024, e uma quantidade expressiva de 13 repositórios registrados para 2026.
+Seus dados do GitHub demonstram uma forte proficiência em múltiplas linguagens, com Python liderando o volume de código (17041 linhas), seguido por C++ (13052), C (12603) e JavaScript (10703), indicando uma base sólida que abrange desenvolvimento de baixo nível e web. Os tópicos mais recorrentes, como Python, React, desenvolvimento assistido por IA e PostgreSQL, juntamente com repositórios de destaque como "Autotuning-PostgreSQL-Pipeline" e "Ciplus-Front-End", sugerem um foco em otimização de banco de dados, desenvolvimento web e interesse em inteligência artificial. A quantidade de commits em projetos como "Orion-Index" (342) e "Processo-Seletivo-Crescer-CWI" (229) reflete um engajamento contínuo e a dedicação em processos seletivos ou projetos de longo prazo, com trabalhos acadêmicos e de jogos também presentes entre os repositórios de maior volume de código. Sua trajetória de criação de repositórios mostra um aumento de projetos de 2022 (5) para 2023 (7), e embora haja uma leve queda em 2024 (2) e 2025 (2), os 13 repositórios registrados para 2026 indicam um planejamento ou expectativa de intensa atividade futura.
 
 <sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
 <!-- ANALISE_MEU_REPO:END -->
@@ -89,15 +89,13 @@ Você demonstra um perfil técnico abrangente, com proficiência em linguagens c
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/orion-index.svg" alt="Orion Index: linguagens mais usadas no mundo segundo o GitHub (repositorios novos, totais, por finalidade e crescimento relativo)" width="100%" />
 </p>
 
-<p align="center"><sub>Última atualização: 03/11/2026</sub></p>
+<p align="center"><sub>Última atualização: 04/11/2026</sub></p>
 <!-- STATS_MUNDO_CARTAO:END -->
 
 <!-- ANALISE_MUNDO:START -->
 **🧠 Análise por IA**
 
-Os dados mais recentes da API do GitHub, coletados em 3 de novembro de 2026, revelam tendências claras no cenário das linguagens de programação. Python demonstra uma atividade impressionante, liderando com 1.407.398 novos repositórios criados nos últimos 30 dias, e sua popularidade é justificada pela forte adoção em áreas como IA / Machine Learning, que conta com 263.775 projetos, e Ciência de Dados, com 86.326. Paralelamente, JavaScript mantém sua hegemonia com 48.643.736 repositórios públicos totais, enquanto TypeScript, com 809.528 novos repositórios e um crescimento relativo notável de 4.13%, continua a se estabelecer como uma escolha robusta para projetos que demandam mais organização e escalabilidade, incluindo o desenvolvimento de APIs. Observa-se ainda que Rust, embora com menor volume absoluto, exibe o maior crescimento relativo, atingindo 5.71%, sinalizando uma crescente demanda por performance e segurança em sistemas. Java, por sua vez, com 21.990.073 repositórios totais, mostra uma taxa de criação de novos projetos mais moderada comparada às linguagens que lideram a onda de inovação atual.
-
-<sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
+_falha ao gerar analise nesta execucao_
 <!-- ANALISE_MUNDO:END -->
 
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/profile_divider.svg" alt="" width="100%"/>
