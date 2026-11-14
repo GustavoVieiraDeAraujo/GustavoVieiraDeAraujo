@@ -62,13 +62,15 @@ Sou apaixonado por tecnologia, principalmente quando ela sai do código e vira i
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/profile_row1.svg" alt="repositorios mais extensos, linguagens por linhas de codigo, repositorios por ano, repositorios por numero de commits" width="100%" />
 </p>
 
-<p align="center"><sub>Última atualização: 13/11/2026</sub></p>
+<p align="center"><sub>Última atualização: 14/11/2026</sub></p>
 <!-- STATS_MEU_REPO_CARTAO:END -->
 
 <!-- ANALISE_MEU_REPO:START -->
 **🧠 Análise por IA**
 
-_falha ao gerar analise nesta execucao_
+Você demonstra um perfil desenvolvedor robusto e poliglota, com forte proficiência em Python, C++ e C, as quais concentram o maior volume de suas linhas de código. Suas áreas de foco são claramente delineadas pelo engajamento em desenvolvimento web, evidenciado pelos tópicos de React, JavaScript e Ruby on Rails, e por um interesse específico em desenvolvimento assistido por IA e gestão de bases de dados com PostgreSQL. A consistência no trabalho é aparente em repositórios como 'Orion-Index' e 'Processo-Seletivo-Crescer-CWI', que acumulam um alto número de commits. Sua trajetória no GitHub indica uma atividade crescente de 5 repositórios em 2022 para 7 em 2023, e os dados registram uma expressiva quantidade de 13 repositórios para 2026.
+
+<sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
 <!-- ANALISE_MEU_REPO:END -->
 
 ---
@@ -87,13 +89,15 @@ _falha ao gerar analise nesta execucao_
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/orion-index.svg" alt="Orion Index: linguagens mais usadas no mundo segundo o GitHub (repositorios novos, totais, por finalidade e crescimento relativo)" width="100%" />
 </p>
 
-<p align="center"><sub>Última atualização: 13/11/2026</sub></p>
+<p align="center"><sub>Última atualização: 14/11/2026</sub></p>
 <!-- STATS_MUNDO_CARTAO:END -->
 
 <!-- ANALISE_MUNDO:START -->
 **🧠 Análise por IA**
 
-_falha ao gerar analise nesta execucao_
+O panorama do desenvolvimento de software no GitHub é nitidamente moldado pela relevância de Python, que domina a criação de novos repositórios, especialmente em função da forte demanda por projetos de IA / Machine Learning e Ciência de Dados. Enquanto JavaScript mantém a maior base total de repositórios públicos, a combinação de sua popularidade com a de TypeScript -- que exibe alta criação de novos projetos e crescimento relativo -- aponta para uma expansão contínua no desenvolvimento web e de sistemas. Linguagens como Java e C++ ainda possuem uma vasta base de projetos totais, sugerindo sua persistência em domínios legados e de alta performance, mas com menor volume de novas iniciativas comparadas às líderes. Contudo, o crescimento relativo mais expressivo é observado em Rust e Kotlin, indicando uma ascensão notável de linguagens focadas em performance, segurança e desenvolvimento multiplataforma, mesmo que partindo de uma base menor. Os tópicos mais procurados, como APIs e Automação, complementam este cenário, evidenciando as áreas de maior investimento e inovação na indústria de software.
+
+<sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
 <!-- ANALISE_MUNDO:END -->
 
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/profile_divider.svg" alt="" width="100%"/>
