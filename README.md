@@ -62,15 +62,13 @@ Sou apaixonado por tecnologia, principalmente quando ela sai do código e vira i
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/profile_row1.svg" alt="repositorios mais extensos, linguagens por linhas de codigo, repositorios por ano, repositorios por numero de commits" width="100%" />
 </p>
 
-<p align="center"><sub>Última atualização: 15/11/2026</sub></p>
+<p align="center"><sub>Última atualização: 16/11/2026</sub></p>
 <!-- STATS_MEU_REPO_CARTAO:END -->
 
 <!-- ANALISE_MEU_REPO:START -->
 **🧠 Análise por IA**
 
-Você demonstra uma proficiência robusta em múltiplas linguagens, com Python, C++ e C liderando o volume de mais de 42 mil linhas de código, o que aponta para uma base técnica sólida e versátil em diferentes paradigmas. Seus repositórios de maior porte e tópicos recorrentes, como 'postgresql', 'cpp', 'react' e 'desenvolvimento-assistido-por-ia', indicam um foco em engenharia de dados, sistemas, desenvolvimento web e uma abertura a tecnologias emergentes. A dedicação em projetos como 'Orion-Index' e 'Processo-Seletivo-Crescer-CWI', que concentram os maiores números de commits, revela um engajamento contínuo e aprofundado no desenvolvimento. Sua trajetória de criação de repositórios mostra uma progressão constante, com 5 em 2022, 7 em 2023 e um aumento significativo projetado para 2026, com 13 novos projetos registrados. Este perfil caracteriza você como uma desenvolvedora com um vasto repertório técnico, capaz de atuar em diversas frentes e evoluir com as tendências do mercado.
-
-<sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
+_falha ao gerar analise nesta execucao_
 <!-- ANALISE_MEU_REPO:END -->
 
 ---
@@ -89,13 +87,13 @@ Você demonstra uma proficiência robusta em múltiplas linguagens, com Python, 
 <img src="https://raw.githubusercontent.com/GustavoVieiraDeAraujo/Orion-Index/main/docs/orion-index.svg" alt="Orion Index: linguagens mais usadas no mundo segundo o GitHub (repositorios novos, totais, por finalidade e crescimento relativo)" width="100%" />
 </p>
 
-<p align="center"><sub>Última atualização: 15/11/2026</sub></p>
+<p align="center"><sub>Última atualização: 16/11/2026</sub></p>
 <!-- STATS_MUNDO_CARTAO:END -->
 
 <!-- ANALISE_MUNDO:START -->
 **🧠 Análise por IA**
 
-A liderança do Python na criação de novos repositórios, com mais de 1.4 milhão nos últimos 30 dias e um crescimento relativo de 3.88%, alinha-se à proeminência de tópicos como IA, Machine Learning e Ciência de Dados, que juntos representam mais de 350 mil repositórios por finalidade. JavaScript e TypeScript, com quase 49 milhões e 19 milhões de repositórios totais respectivamente, demonstram sua contínua relevância no desenvolvimento web e de APIs, com mais de 1 milhão e 791 mil novos projetos cada, impulsionados pela criação de APIs e automação. O notável crescimento relativo de TypeScript, de quase 4%, indica uma preferência por tipagem estática em projetos modernos que tradicionalmente usariam JavaScript. Linguagens como Rust e Kotlin, apesar de volumes absolutos menores, exibem as maiores taxas de crescimento relativo, de 6.24% e 4.03% respectivamente, sinalizando sua ascensão em nichos de mercado que demandam alta performance e segurança de código. Java, com 22 milhões de repositórios totais, mantém uma base sólida, mas sua criação de novos projetos (268 mil) é superada pelas linguagens mais dinâmicas e de tendências atuais do ecossistema.
+A GitHub API data de 2026-11-16 revela tendências claras no panorama de desenvolvimento. Python lidera disparadamente na criação de novos repositórios nos últimos 30 dias, com 1.417.783, impulsionado pela alta demanda por projetos de IA, Machine Learning e Ciência de Dados, que juntos somam mais de 350 mil repositórios por tópico. JavaScript, embora mantenha a maior base total de repositórios públicos com 49 milhões, aparece em segundo lugar na criação recente, seguido de perto por TypeScript, que também exibe um forte crescimento relativo de mais de 4%. Essa ascensão do TypeScript, aliada à de Python, sugere uma preferência por tipagem forte e ecossistemas robustos em projetos modernos de web e dados. Por sua vez, linguagens como Rust e Kotlin demonstram o maior crescimento relativo, indicando sua crescente adoção em nichos que valorizam performance e segurança, mesmo que suas bases totais de projetos ainda sejam menores.
 
 <sub>Gerado automaticamente pela [API do Gemini](https://ai.google.dev/) (Google), com base nos dados acima.</sub>
 <!-- ANALISE_MUNDO:END -->
